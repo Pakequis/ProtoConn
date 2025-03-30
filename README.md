@@ -22,6 +22,7 @@ This open-hardware prototype board was created as a practical tool to simplify a
 
 ### Features
 
+Size: 200 x 195 mm dual layer PCB.
 - **DE-9 Connector**: Supports serial, joystick, or CAN communication.
 - **RCA Connectors**: Includes 3 RCA connectors.
 - **Audio Connectors**:
