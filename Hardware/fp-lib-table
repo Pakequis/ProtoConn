@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Protocon")(type "KiCad")(uri "D:/projetos/2024/PCB-com-conectores/libs/Protocon.pretty")(options "")(descr ""))
+)
